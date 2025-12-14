@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI - Fake News Detector",
+  "description": "An advanced fake news detection system using NLP analysis to classify news articles as Real or Fake, visualizing linguistic features and confidence scores.",
+  "requestFramePermissions": []
+}
